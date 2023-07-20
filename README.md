@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iampresh
-- 👀 I’m interested in javascript programming language
-- 🌱 I’m currently learning frontend web development
+- javascript / python 
+- 🌱 backend developement
 - 💞️ I’m looking to collaborate on whatever i can contribute to
 - 📫 How to reach me twitter @thepreciious_ 
 
