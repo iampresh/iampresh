@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iampresh
-- javascript / python 
-- 🌱 backend developement
+- javascript / python /Flask
+- 🌱 backend developement / Frontend development
 - 💞️ I’m looking to collaborate on whatever i can contribute to
 - 📫 How to reach me twitter @thepreciious_ 
 
